@@ -9,8 +9,8 @@
 I'm Geographer and Programming Student.
 
 - 📌 Working on a Real Estate Research Company.
-- ⚡ Skills: ArcGIS, QGIS, HTML5 and CSS3.
-- 📚 Currently, learning more about front-end development.
+- ⚡ Skills: ArcGIS and QGIS.
+- 📚 Currently, learning more about GitHub, database and Python.
 - 🖤 I love chocolate, coffee, learning and sharing knowledge.
 
 
