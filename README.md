@@ -10,7 +10,7 @@ I'm Geographer and Programming Student.
 
 - 📌 Working on a Real Estate Research Company.
 - ⚡ Skills: ArcGIS and QGIS.
-- 📚 Currently, learning more about GitHub, database and Python.
+- 📚 Currently, learning more about GitHub, Database and Python.
 - 🖤 I love chocolate, coffee, learning and sharing knowledge.
 
 
