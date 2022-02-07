@@ -1,4 +1,4 @@
-# Cristiane Pereira Domingues 💻
+# Cristiane Pereira Domingues 💻🌍
 
 [![Linkedin Badge](https://img.shields.io/badge/-cristianedomingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianedomingues/)](https://www.linkedin.com/in/cristianedomingues/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cris.domingues@gmail.com)](mailto:cris.domingues@gmail.com)
