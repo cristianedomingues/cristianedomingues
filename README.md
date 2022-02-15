@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cris.domingues@gmail.com)](mailto:cris.domingues@gmail.com)
 
 
- ### Hi there 👋 This is my Professional Resume:
+ ### Hi there 👋. This is my Professional Resume:
 
 I'm Geographer and Programming Student.
 
