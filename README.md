@@ -1,4 +1,4 @@
-# Cristiane Pereira Domingues 💻🌍
+# Cristiane Pereira Domingues 🌍💻
 
 
  ### Hi there 👋. Welcome to my profile!
@@ -14,7 +14,7 @@ I'm Geographer and Programming Student.
 
  <div>
   <a href="https://github.com/cristianedomingues">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianedomingues&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianedomingues&layout=compact&langs_count=16&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cristianedomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <div>
 
