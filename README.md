@@ -14,14 +14,14 @@ I'm Geographer and Programming Student.
 
  <div>
   <a href="https://github.com/cristianedomingues">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianedomingues&layout=compact&langs_count=16&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianedomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianedomingues&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+  <div>
 
  ## My contacts:
  
-[![Linkedin Badge](https://img.shields.io/badge/-cristianedomingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianedomingues/)](https://www.linkedin.com/in/cristianedomingues/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cris.domingues@gmail.com)](mailto:cris.domingues@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-cristianedomingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianedomingues/)](https://www.linkedin.com/in/cristianedomingues/)
 
 <!--
 **cristianedomingues/cristianedomingues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
