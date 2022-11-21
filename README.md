@@ -1,12 +1,9 @@
-# Cristiane Pereira Domingues 🌍💻
+# Cristiane Pereira Domingues 
 
 
  ### Hi there 👋. Welcome to my profile!
  
- This is my Professional Resume:
-
-I'm Geographer and Programming Student.
-
+- 🌍💻I'm Geographer and Programming Student.
 - 📌 Working in a Real Estate Research Company.
 - 📚 Currently, learning more about Git, GitHub, Front-end, Python and Databases.
 
