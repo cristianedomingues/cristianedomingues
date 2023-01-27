@@ -4,7 +4,7 @@
  ### Hi there 👋. Welcome to my profile!
  
 - 👩‍🦱 I'm a website development student.
-- 💻 Currently, learning more about Git, GitHub, Web Developer, HTML. CSS and JavaScript.
+- 💻 Currently, learning more about Git, GitHub, Web Developer, HTML, CSS and JavaScript.
 
 ## Coding Activity
 
