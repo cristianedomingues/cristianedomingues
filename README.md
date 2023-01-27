@@ -3,9 +3,8 @@
 
  ### Hi there 👋. Welcome to my profile!
  
-- 🌍💻I'm Geographer, Developer and Data Science Student.
-- 📌 Working in a Real Estate Research Company.
-- 📚 Currently, learning more about GitHub, Web Developer, Python and Databases.
+- 🌍💻I'm a website development student.
+ - 📚 Currently, learning more about Git, GitHub, Web Developer, HTML. CSS and JavaScript.
 
 ## Coding Activity
 
