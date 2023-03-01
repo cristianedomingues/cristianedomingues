@@ -3,8 +3,8 @@
 
  ### Hi there 👋. Welcome to my profile!
  
-- 👩‍🦱 I'm a website development student.
-- 💻 Currently, learning more about Git, GitHub, Web Developer, HTML, CSS and JavaScript.
+- 👩‍🦱 I'm a dev student.
+- 💻 Currently, learning more about Git, GitHub, Web Developer, DB and Python.
 
 ## Coding Activity
 
