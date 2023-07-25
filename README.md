@@ -3,8 +3,8 @@
 
  ### Hi there 👋. Welcome to my profile!
  
-- 👩‍🦱 At the momen I work with market research for the real estate sector.
-- 💻 I'm learning more about Git, GitHub, Logic of Programming and Web Developer..
+- 👩‍🦱  At the moment, I work with market research for the real estate sector.
+- 💻 I’m currently learning more about Git, GitHub, Logic of Programming and Web Developer..
 
 ## Coding Activity
 
