@@ -3,8 +3,8 @@
 
  ### Hi there 👋. Welcome to my profile!
  
-- 👩‍🦱 I'm a dev student.
-- 💻 Currently, learning more about Git, GitHub, Web Developer, DB and Python.
+- 👩‍🦱 At the momen I work with market research for the real estate sector.
+- 💻 I'm learning more about Git, GitHub, Logic of Programming and Web Developer..
 
 ## Coding Activity
 
